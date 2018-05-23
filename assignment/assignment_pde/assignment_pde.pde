@@ -98,5 +98,69 @@ textSize(16);
 fill(0,0,0);
 text("38",575,60);
 
+fill(255,255,255);
+rect(0,121,175,120);
+textSize(18);
+fill(0,0,0);
+text("Calgary Flames",5,165);
+
+fill(255,255,255);
+rect(176,121,175,120);
+textSize(18);
+fill(0,0,0);
+text("Team wins",200,165);
+textSize(16);
+fill(0,0,0);
+text("25",230,190);
+
+fill(255,255,255);
+rect(353,121,175,120);
+textSize(18);
+fill(0,0,0);
+text("Losses",400,165);
+textSize(16);
+fill(0,0,0);
+text("20",420,190);
+
+fill(255,255,255);
+rect(525,121,175,120);
+textSize(18);
+fill(0,0,0);
+text("Points",575,165);
+textSize(16);
+fill(0,0,0);
+text("50",575,195);
+
+fill(255,255,255);
+rect(0,242,175,120);
+textSize(18);
+fill(0,0,0);
+text("San Jose",5,285);
+
+fill(255,255,255);
+rect(177,242,175,120);
+textSize(18);
+fill(0,0,0);
+text("Team wins",200,280);
+textSize(16);
+fill(0,0,0);
+text("8",230,310);
+
+
+fill(255,255,255);
+rect(353,242,175,120);
+textSize(18);
+fill(0,0,0);
+text("Team losses",390,280);
+textSize(16);
+text("12",400,310);
+
+fill(255,255,255);
+rect(525,242,175,120);
+textSize(18);
+fill(0,0,0);
+text("Points",565,280);
+textSize(16);
+text("16",570,310);
 
 }
